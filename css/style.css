@@ -18,7 +18,6 @@
 	width: 100%;
 	height: 100%;
 	overflow: hidden;
-	text-transform: uppercase;
 	color: #555;
 	background: #fff;
 }
@@ -47,15 +46,15 @@
 	line-height: 150px;
 	margin: 0;
 	padding: 0 50px;
-	font-weight: 200;
-	font-size: 19px;
-	letter-spacing: 10px;
+	font-weight: 400;
+	font-size: 30px;
+
 }
 .ps-header h2 { 
 	margin-top:-50px;
 	color: #fff;
 	padding: 0 50px;
-	font-weight: 200;
+	font-weight: 500;
 	font-size: 19px;
 	letter-spacing: 10px;
 }
